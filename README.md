@@ -7,8 +7,6 @@ You can click the Preview link to take a look at your changes.
   <body>
     <h1>Welcome! </h1>
     <ol>
-      <li>I am Rob_0, Still a Newbie on HTML and CSS</li>
-      <li>I planning to be a Full-Stack Developer</li>
       <li>Currently learning...</li>
     </ol>
   </body>
